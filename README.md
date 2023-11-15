@@ -1,43 +1,32 @@
-# Hi there, I'm [Your Name]! 👋
+# Hello world, I'm Beauty! 👋
 
 ## About Me 🙋‍♂️
-I'm a passionate [your profession or field] with [number] years of experience. I love [specific interests or technologies] and enjoy [what you enjoy doing]. I'm always eager to learn and explore new things in the world of [your field].
+I code stuff for the web and mobile.
 
-## Skills 🚀
-- [Skill 1] 💪
-- [Skill 2] 💡
-- [Skill 3] 🌟
-- [Skill 4] 🎯
-- ...
+- 🌐 Visit my [portfolio website](https://pr2tik1.github.io/](https://beauty-tatenda.netlify.app/) for more information and to get in touch.
+- 👋 Check out my twitter [blog](https://pr2tik1.github.io/blog/](https://x.com/tatendaTheCoder?s=09)) for daily updates.
 
-## Projects 🔧
-- [Project 1]: Brief description or key features ✨
-- [Project 2]: Brief description or key features ✨
-- [Project 3]: Brief description or key features ✨
-- ...
 
-## Achievements 🏆
-- [Achievement 1] 🥇
-- [Achievement 2] 🏅
-- [Achievement 3] 🎖️
-- ...
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-## Open Source Contributions 🌐
-- [Contribution 1] 🤝
-- [Contribution 2] 🤝
-- [Contribution 3] 🤝
-- ...
 
-## Connect with Me 🔗
-- LinkedIn: [Your LinkedIn Profile URL] 💼
-- Twitter: [@YourTwitterHandle] 🐦
-- Website: [Your Website URL] 🌐
+class SoftwareDeveloper:
+
+    def __init__(self):
+        self.name = "Beauty"
+        self.role = "Software Developer"
+        self.programming_lingos = ["Python", "JavaScript", "C#", "Dart", "PHP"]
+
+    def say_hi(self):
+        print("Dig in my repos, pretty sure you'll find some gold and get rich")
+
+
+me = SoftwareEngineer()
+me.say_hi()
+```
 
 ## Stats 📈
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beautytasara27&show_icons=true&theme=dark)
-
-## Recent Blog Posts 📝
-- [Blog Post 1] 📌
-- [Blog Post 2] 📌
-- [Blog Post 3] 📌
-- ...
+<em><b>Follow me</b> I will follow back <b>Show me what you got</b> :)</em>
