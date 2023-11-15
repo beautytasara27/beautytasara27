@@ -1,4 +1,14 @@
-# Hello world, I'm Beauty! 👋
+# Hello world, I'm ...! 👋
+ ________  _______   ________  ___  ___  _________    ___    ___ 
+|\   __  \|\  ___ \ |\   __  \|\  \|\  \|\___   ___\ |\  \  /  /|
+\ \  \|\ /\ \   __/|\ \  \|\  \ \  \\\  \|___ \  \_| \ \  \/  / /
+ \ \   __  \ \  \_|/_\ \   __  \ \  \\\  \   \ \  \   \ \    / / 
+  \ \  \|\  \ \  \_|\ \ \  \ \  \ \  \\\  \   \ \  \   \/  /  /  
+   \ \_______\ \_______\ \__\ \__\ \_______\   \ \__\__/  / /    
+    \|_______|\|_______|\|__|\|__|\|_______|    \|__|\___/ /     
+                                                    \|___|/      
+                                                                 
+                                                                 
 
 ## About Me 🙋‍♂️
 I code stuff for the web and mobile.
@@ -31,13 +41,13 @@ class SoftwareDeveloper:
 me = SoftwareEngineer()
 me.say_hi()
 ```
-
+## Current Works
+ * Breaking into Robotics !!
+ * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Algorithms**.
+ * I dabble in **Deep Learning**
+ 
 ## Stats 📈
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beautytasara27&show_icons=true&theme=dark)
+
 <em><b>Show me what you got</b> :)</em>
 
-## 🎵 Spotify status
-
-<a href="https://jvillegasd-spotify.vercel.app/api/song/?opened">
-  <img src="https://The_beauty_within-spotify.vercel.app/api/song" width="341" height="571" alt="Now Playing">
-</a>
