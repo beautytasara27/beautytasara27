@@ -3,8 +3,8 @@
 ## About Me 🙋‍♂️
 I code stuff for the web and mobile.
 
-- 🌐 Visit my [portfolio website](https://pr2tik1.github.io/]([https://beauty-tatenda.netlify.app/]) for more information and to get in touch.
-- 👋 Check out my twitter [blog](https://pr2tik1.github.io/blog/](https://x.com/tatendaTheCoder?s=09)) for daily updates.
+- 🌐 Visit my [portfolio website]((https://beauty-tatenda.netlify.app/)) for more information and to get in touch.
+- 👋 Check out my twitter [blog]((https://x.com/tatendaTheCoder?s=09)) for daily updates.
 
 
 ```python
