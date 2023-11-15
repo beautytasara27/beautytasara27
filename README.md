@@ -42,7 +42,7 @@ class SoftwareDeveloper:
 		MakeShittyRobots()
 		# Assume infinite awesome ambitions here  ;)
 
-me = SoftwareEngineer()
+me = SoftwareDeveloper()
 me.say_hi()
 ```
 ## Current Works
