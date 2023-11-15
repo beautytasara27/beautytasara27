@@ -22,6 +22,11 @@ class SoftwareDeveloper:
     def say_hi(self):
         print("Dig in my repos, pretty sure you'll find some gold and get rich")
 
+	def Ambitions():
+		LearnGerman()
+		CreateATinyVerse()
+		MakeShittyRobots()
+		# Assume infinite awesome ambitions here  ;)
 
 me = SoftwareEngineer()
 me.say_hi()
@@ -30,3 +35,9 @@ me.say_hi()
 ## Stats 📈
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beautytasara27&show_icons=true&theme=dark)
 <em><b>Show me what you got</b> :)</em>
+
+## 🎵 Spotify status
+
+<a href="https://jvillegasd-spotify.vercel.app/api/song/?opened">
+  <img src="https://The_beauty_within-spotify.vercel.app/api/song" width="341" height="571" alt="Now Playing">
+</a>
