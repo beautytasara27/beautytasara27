@@ -3,7 +3,7 @@
 ## About Me 🙋‍♂️
 I code stuff for the web and mobile.
 
-- 🌐 Visit my [portfolio website](https://pr2tik1.github.io/](https://beauty-tatenda.netlify.app/) for more information and to get in touch.
+- 🌐 Visit my [portfolio website](https://pr2tik1.github.io/]([https://beauty-tatenda.netlify.app/]) for more information and to get in touch.
 - 👋 Check out my twitter [blog](https://pr2tik1.github.io/blog/](https://x.com/tatendaTheCoder?s=09)) for daily updates.
 
 
@@ -29,4 +29,4 @@ me.say_hi()
 
 ## Stats 📈
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beautytasara27&show_icons=true&theme=dark)
-<em><b>Follow me</b> I will follow back <b>Show me what you got</b> :)</em>
+<em><b>Show me what you got</b> :)</em>
