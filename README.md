@@ -46,9 +46,8 @@ me = SoftwareDeveloper()
 me.say_hi()
 ```
 ## Current Works
- * Breaking into Robotics !!
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Algorithms**.
- * I dabble in **Deep Learning**
+ * Deep diving into Machine Learning-graduate student level !!
+ * I'm currently working on 🔭 building **AI Applications** and working up on polishing my skills 🌱 in **Algorithms**.
  
 ## Stats 📈
 ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=beautytasara27&show_icons=true&theme=dark)
