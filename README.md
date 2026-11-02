@@ -1,21 +1,9 @@
-# Hello world, I'm ...
-
-
-```
- ________  _______   ________  ___  ___  _________    ___    ___ 
-|\   __  \|\  ___ \ |\   __  \|\  \|\  \|\___   ___\ |\  \  /  /|
-\ \  \|\ /\ \   __/|\ \  \|\  \ \  \\\  \|___ \  \_| \ \  \/  / /
- \ \   __  \ \  \_|/_\ \   __  \ \  \\\  \   \ \  \   \ \    / / 
-  \ \  \|\  \ \  \_|\ \ \  \ \  \ \  \\\  \   \ \  \   \/  /  /  
-   \ \_______\ \_______\ \__\ \__\ \_______\   \ \__\__/  / /    
-    \|_______|\|_______|\|__|\|__|\|_______|    \|__|\___/ /     
-                                                    \|___|/
-```
+# Hello world, I'm Beauty
 
 <br />                                 
 
 ## About Me 🙋‍♂️
-I code stuff for the web and mobile.
+I design and develop software.
 
 - 🌐 Visit my [portfolio website](https://beauty-tatenda.netlify.app/) for more information and to get in touch.
 - 👋 Check out my twitter [blog](https://x.com/tatendaTheCoder?s=09) for daily updates.
@@ -26,12 +14,12 @@ I code stuff for the web and mobile.
 # -*- coding: utf-8 -*-
 
 
-class SoftwareDeveloper:
+class SoftwareEngineer:
 
     def __init__(self):
         self.name = "Beauty"
-        self.role = "Software Developer"
-        self.programming_lingos = ["Python", "JavaScript", "C#", "Dart", "PHP"]
+        self.role = "Software Engineer"
+        self.programming_lingos = ["Python", "JavaScript/TypeScript", "C#", "Dart", "PHP"]
 
     def say_hi(self):
         print("Dig in my repos, pretty sure you'll find some gold and get rich")
@@ -42,7 +30,7 @@ class SoftwareDeveloper:
 		MakeShittyRobots()
 		# Assume infinite awesome ambitions here  ;)
 
-me = SoftwareDeveloper()
+me = SoftwareEngineer()
 me.say_hi()
 ```
 ## Current Works
